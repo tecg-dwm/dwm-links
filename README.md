@@ -7,7 +7,7 @@
 - [10 Design systems et comment les utiliser](https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/)
 - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 - [Smashing Magazin - Design Systems Are About Relationships](https://www.smashingmagazine.com/2019/10/design-systems-relationships/)
-- [Invision - Design Systems Handbook] (https://www.designbetter.co/design-systems-handbook)
+- [Invision - Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
 
 ## Livres
 - [Design tactile, Josh Clark](https://www.eyrolles.com/Informatique/Livre/design-tactile-9782212143911/)
@@ -55,7 +55,7 @@
 - https://medium.muz.li/easy-life-made-easier-f0bf02e777ab
 - [Designing Nordic happiness with Finnair](https://www.invisionapp.com/inside-design/designing-with-finnair/)
 - [How Ireland’s biggest bank executed a complete security redesign](https://www.invisionapp.com/inside-design/aib-psd2-prototypes/)
-- [noupe - 5 Most Common Mistakes That Ruin The Key Design Elements Of Product Pages(https://www.noupe.com/design/5-most-common-mistakes-that-ruin-the-key-design-elements-of-product-pages.html)
+- [noupe - 5 Most Common Mistakes That Ruin The Key Design Elements Of Product Pages](https://www.noupe.com/design/5-most-common-mistakes-that-ruin-the-key-design-elements-of-product-pages.html)
 - [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
 
 
@@ -82,7 +82,7 @@ https://www.youtube.com/user/IceflowStudios/playlists
 
 
 ## Accessibilité
-- [VIDEOS - inclusivedesign24.org/2020/schedule](https://inclusivedesign24.org/2020/schedule/
+- [VIDEOS - inclusivedesign24.org/2020/schedule](https://inclusivedesign24.org/2020/schedule/)
 - [AlistApart - Color Craft & Counterpoint: A Designer’s Life with Color Vision Deficiency](https://alistapart.com/article/a-designers-life-with-color-vision-deficiency/)
 - [AListAPart - Building the woke web](https://alistapart.com/article/building-the-woke-web/)
 - [Smashing Magazine - Equivalent Experiences: What Are They?](https://www.smashingmagazine.com/2020/05/equivalent-experiences-part1/)
@@ -93,7 +93,7 @@ https://www.youtube.com/user/IceflowStudios/playlists
 - [Presentation: Humane Design Patterns - Videos](https://jonyablonski.com/articles/2019/humane-design-patterns/)
 - [Les septs péchés capitaux d'un UX/UI Designer](https://medium.muz.li/7-deadly-sins-of-ui-ux-designers-d951a7c4b762)
 - [How to do market research](https://www.noupe.com/inspiration/tutorials-inspiration/how-to-do-market-research.html)
-- [Information architecture: Definition, tips, and best practicese/)
+- [Information architecture: Definition, tips, and best practicese](https://www.invisionapp.com/inside-design/information-architecture/)
 - [Adobe Wireframe Podcasts](https://xd.adobe.com/ideas/perspectives/wireframe-podcast/)
 
 
