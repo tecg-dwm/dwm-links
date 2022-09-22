@@ -110,6 +110,8 @@ https://www.youtube.com/user/IceflowStudios/playlists
 - [How to do market research](https://www.noupe.com/inspiration/tutorials-inspiration/how-to-do-market-research.html)
 - [Information architecture: Definition, tips, and best practicese](https://www.invisionapp.com/inside-design/information-architecture/)
 - [Adobe Wireframe Podcasts](https://xd.adobe.com/ideas/perspectives/wireframe-podcast/)
+- [Qu'est-ce que le prototypage en UX](https://www.uxpin.com/studio/blog/what-is-a-prototype-a-guide-to-functional-ux/)
+- [La psychologie appliquée à l'UX](https://medium.muz.li/rules-of-ux-perspective-of-psychology-in-ux-design-9e9ade9009d0)
 
 ## Copywriting
 - https://www.nngroup.com/articles/ux-writing-study-guide/
