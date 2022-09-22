@@ -27,6 +27,7 @@
 - https://medium.theuxblog.com/10-best-practices-for-designing-user-friendly-forms-fa0ba7c3e01f
 - https://www.mockplus.com/blog/post/mobile-form-design-examples
 - https://www.lafabriquedunet.fr/blog/bonnes-pratiques-design-formulaires/
+- [Comment faire un bon bouton Toggle](https://www.smashingmagazine.com/2022/08/toggle-button-case-study-part-1/)
 
 
 ## Le rythme vertical
@@ -66,7 +67,7 @@
 
 ## Design
 - https://dribbble.com/shots/6292515-Mobile-bank-onboarding/attachments/1347734
-
+- [Comment mettre en page un article long](https://css-tricks.com/designing-for-long-form-articles/)
 
 ## Articles
 - [8pt Grid, Material Design, GUI](https://medium.com/@_bklmn/8pt-gui-templates-ed8798badab3#.qlci5dec1)
