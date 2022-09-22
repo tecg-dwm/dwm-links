@@ -13,10 +13,10 @@
 - [Design tactile, Josh Clark](https://www.eyrolles.com/Informatique/Livre/design-tactile-9782212143911/)
 - [Art Direction for the web](https://stuffandnonsense.co.uk/artdirectionfortheweb/)
 
-## Checkists
+## Checklists
 - https://www.checklist.design/
 - [Checklist d'accessibilité](https://not-checklist.intopia.digital/)
-- [Checkist d'accessibilité WGCA](https://www.a11yproject.com/checklist/)
+- [Checklist d'accessibilité WGCA](https://www.a11yproject.com/checklist/)
 - [liste de checklists](https://www.smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/) 
 
 ## Les formulaires
@@ -63,6 +63,7 @@
 - [How Ireland’s biggest bank executed a complete security redesign](https://www.invisionapp.com/inside-design/aib-psd2-prototypes/)
 - [noupe - 5 Most Common Mistakes That Ruin The Key Design Elements Of Product Pages](https://www.noupe.com/design/5-most-common-mistakes-that-ruin-the-key-design-elements-of-product-pages.html)
 - [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
+- [UI/UX Case Study: The BikeLike mobile app](https://medium.muz.li/ui-ux-case-study-the-bikelike-mobile-app-22a7115eb113)
 
 
 ## Design
@@ -70,21 +71,29 @@
 - [Comment mettre en page un article long](https://css-tricks.com/designing-for-long-form-articles/)
 
 ## Articles
-- [8pt Grid, Material Design, GUI](https://medium.com/@_bklmn/8pt-gui-templates-ed8798badab3#.qlci5dec1)
-- [Invision : using baseline grid in webdesign](https://www.youtube.com/watch?v=-Kp66bBZoy8)
 - [Gestalt principles in UI Design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
-- [Creating a Buttons Library in Adobe XD with The New Components Feature](https://www.youtube.com/watch?v=WEOPGPN4JiU)
-- [Introducing Components in Adobe XD](https://www.youtube.com/watch?v=qrsuk6zl8B8)
-- [Master Components & Overrides in Adobe XD](https://www.youtube.com/watch?v=wVJrxdVW15M)
-- [The three archetypes of typography systems](https://www.freecodecamp.org/news/8-point-grid-typography-on-the-web-be5dc97db6bc/)
+- [Diviseurs visuels en design](https://medium.muz.li/ux-details-visual-dividers-in-user-interfaces-8afec368535d)
+- [Faire un design de bouton](https://wix-ux.com/designing-the-perfect-button-e77ec1f32ee5)
 - [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
 - [Neuphorism tutorial](https://uxplanet.org/neumorphism-in-user-interface-tutorial-c353698ac5c0)
 - [Role of Proximity in Product Interaction Design (IxD)](https://medium.muz.li/proximity-in-product-interaction-design-deb527b1c336)
 - [99designs - 9 tendances en design d’application mobile créatives à découvrir en 2020](https://fr.99designs.be/blog/tendances/tendances-design-dapplication-mobile/)
 - [8 UX/UI design trends for 2020](https://uxdesign.cc/8-ui-ux-design-trends-for-2020-68e37b0278f6)
+- [Goole Search UI/UX Hacks](https://designerup.co/blog/google-search-hacks-for-ui-ux-and-product-designers/)
+
+## Adobe XD 
+- [Creating a Buttons Library in Adobe XD with The New Components Feature](https://www.youtube.com/watch?v=WEOPGPN4JiU)
+- [Introducing Components in Adobe XD](https://www.youtube.com/watch?v=qrsuk6zl8B8)
+- [Master Components & Overrides in Adobe XD](https://www.youtube.com/watch?v=wVJrxdVW15M)
 
 
 https://www.youtube.com/user/IceflowStudios/playlists
+
+## Typographie
+- https://www.nngroup.com/articles/pairing-typefaces/
+- [Invision : using baseline grid in webdesign](https://www.youtube.com/watch?v=-Kp66bBZoy8)
+- [The three archetypes of typography systems](https://www.freecodecamp.org/news/8-point-grid-typography-on-the-web-be5dc97db6bc/)
+- [8pt Grid, Material Design, GUI](https://medium.com/@_bklmn/8pt-gui-templates-ed8798badab3#.qlci5dec1)
 
 
 ## Accessibilité
@@ -102,6 +111,8 @@ https://www.youtube.com/user/IceflowStudios/playlists
 - [Information architecture: Definition, tips, and best practicese](https://www.invisionapp.com/inside-design/information-architecture/)
 - [Adobe Wireframe Podcasts](https://xd.adobe.com/ideas/perspectives/wireframe-podcast/)
 
+## Copywriting
+- https://www.nngroup.com/articles/ux-writing-study-guide/
 
 ## Couleurs
 - [Colorsinspo, une bibliothèque de ressources complète sur les couleurs](https://www.blogdumoderateur.com/colorsinspo-bibliotheque-couleurs/)
