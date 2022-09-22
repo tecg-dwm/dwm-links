@@ -13,6 +13,11 @@
 - [Design tactile, Josh Clark](https://www.eyrolles.com/Informatique/Livre/design-tactile-9782212143911/)
 - [Art Direction for the web](https://stuffandnonsense.co.uk/artdirectionfortheweb/)
 
+## Checkists
+- https://www.checklist.design/
+- [Checklist d'accessibilité](https://not-checklist.intopia.digital/)
+- [Checkist d'accessibilité WGCA](https://www.a11yproject.com/checklist/)
+- [liste de checklists](https://www.smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/) 
 
 ## Les formulaires
 - https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/
