@@ -8,6 +8,7 @@
 - [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
 - [Smashing Magazin - Design Systems Are About Relationships](https://www.smashingmagazine.com/2019/10/design-systems-relationships/)
 - [Invision - Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
+- [Comment définir vos couleurs grâce à la sémantique dans vos Design Systems](https://uxdesign.cc/how-to-define-color-usage-through-semantic-sets-for-design-systems-99445804233d)
 
 ## Livres
 - [Design tactile, Josh Clark](https://www.eyrolles.com/Informatique/Livre/design-tactile-9782212143911/)
@@ -69,9 +70,11 @@
 ## Design
 - https://dribbble.com/shots/6292515-Mobile-bank-onboarding/attachments/1347734
 - [Comment mettre en page un article long](https://css-tricks.com/designing-for-long-form-articles/)
+- [Comment mettre en page de grands tableaux](https://coyleandrew.medium.com/ui-considerations-for-designing-large-data-tables-aa6c1ea93797)
 
 ## Articles
 - [Gestalt principles in UI Design](https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965)
+- [Les 10 principes heuristiques de l'utilisabilité de Jakob Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [Diviseurs visuels en design](https://medium.muz.li/ux-details-visual-dividers-in-user-interfaces-8afec368535d)
 - [Faire un design de bouton](https://wix-ux.com/designing-the-perfect-button-e77ec1f32ee5)
 - [Neumorphism in user interfaces](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
