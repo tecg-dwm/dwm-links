@@ -108,6 +108,7 @@ https://www.youtube.com/user/IceflowStudios/playlists
 - [6 ways you can make your design more inclusive and equitable](https://www.invisionapp.com/inside-design/design-for-diversity-project-inkblot/)
 
 ## UX
+- [Les concepts psychologique de l'UX](https://growth.design/psychology)
 - [Les priority guides comme alternatives aux wireframes](https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/)
 - [Presentation: Humane Design Patterns - Videos](https://jonyablonski.com/articles/2019/humane-design-patterns/)
 - [Les septs péchés capitaux d'un UX/UI Designer](https://medium.muz.li/7-deadly-sins-of-ui-ux-designers-d951a7c4b762)
