@@ -65,6 +65,7 @@
 - [noupe - 5 Most Common Mistakes That Ruin The Key Design Elements Of Product Pages](https://www.noupe.com/design/5-most-common-mistakes-that-ruin-the-key-design-elements-of-product-pages.html)
 - [The Return of the 90s Web](https://mxb.dev/blog/the-return-of-the-90s-web/)
 - [UI/UX Case Study: The BikeLike mobile app](https://medium.muz.li/ui-ux-case-study-the-bikelike-mobile-app-22a7115eb113)
+- [Stylevue App - Online Clothing Shopping](https://medium.muz.li/stylevue-app-redefining-online-clothing-shopping-through-perfect-sizing-ui-ux-case-study-8fa0f6f97077?source=rss----5969bf7021a3---4)
 
 
 ## Design
