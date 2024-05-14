@@ -2,6 +2,7 @@
 
 ## Design Systems
 - [Qu'est-ce qu'un Design System](https://www.usabilis.com/design-system/)
+- [Apprendre à faire un Design System par Figma](https://www.designsystems.com)
 - [Le système de Google](https://material.io/design/)
 - [Le Système d'Apple](https://developer.apple.com/design/human-interface-guidelines/)
 - [10 Design systems et comment les utiliser](https://designerup.co/blog/10-best-design-systems-and-how-to-learn-and-steal-from-them/)
