@@ -14,6 +14,12 @@
 - [Design tactile, Josh Clark](https://www.eyrolles.com/Informatique/Livre/design-tactile-9782212143911/)
 - [Art Direction for the web](https://stuffandnonsense.co.uk/artdirectionfortheweb/)
 
+## Outils
+- [FontJoy : Outil de pairage de fontes](https://fontjoy.com/)
+- [Typescale : Outil de gestion d'échelles typographique](https://typescale.com)
+- [ModularScale : Outil de gestion d'échelles typographique](https://www.modularscale.com)
+- [GridLover : Outil de gestion d'échelles typographique](https://gridlover.net/try)
+
 ## Checklists
 - https://www.checklist.design/
 - [Checklist d'accessibilité](https://not-checklist.intopia.digital/)
