@@ -15,6 +15,11 @@
 - [Design tactile, Josh Clark](https://www.eyrolles.com/Informatique/Livre/design-tactile-9782212143911/)
 - [Art Direction for the web](https://stuffandnonsense.co.uk/artdirectionfortheweb/)
 
+## Vidéos
+- [UI Fundamentals](https://www.youtube.com/watch?v=_Hp_dI0DzY4)
+- [Introduction aux design system](https://www.youtube.com/watch?v=Dtd40cHQQlk&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A)
+- [Ma première variable](https://www.youtube.com/watch?v=vqlBwcAzGdQ&list=PLXDU_eVOJTx6V9PNAxvagzaMWHDFOsYQI)
+  
 ## Outils
 - [FontJoy : Outil de pairage de fontes](https://fontjoy.com/)
 - [Typescale : Outil de gestion d'échelles typographique](https://typescale.com)
