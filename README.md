@@ -21,6 +21,7 @@
 - [Introduction aux design system](https://www.youtube.com/watch?v=Dtd40cHQQlk&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A)
 - [Ma première variable](https://www.youtube.com/watch?v=vqlBwcAzGdQ&list=PLXDU_eVOJTx6V9PNAxvagzaMWHDFOsYQI)
 - [Typography system](https://www.youtube.com/watch?v=NYamEp3WnZs)
+- [Flex et Autolayout](https://www.youtube.com/watch?v=Pi6MipIG5iI)
 
 ## Outils
 - [FontJoy : Outil de pairage de fontes](https://fontjoy.com/)
