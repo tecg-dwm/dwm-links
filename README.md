@@ -22,6 +22,7 @@
 - [Ma première variable](https://www.youtube.com/watch?v=vqlBwcAzGdQ&list=PLXDU_eVOJTx6V9PNAxvagzaMWHDFOsYQI)
 - [Typography system](https://www.youtube.com/watch?v=NYamEp3WnZs)
 - [Flex et Autolayout](https://www.youtube.com/watch?v=Pi6MipIG5iI)
+- [Utiliser son téléphone pour tester un prototype](https://www.youtube.com/watch?v=pKYjBMAEJE4)
 
 ## Outils
 - [FontJoy : Outil de pairage de fontes](https://fontjoy.com/)
@@ -142,3 +143,20 @@ https://www.youtube.com/user/IceflowStudios/playlists
 - [Le choix des couleurs dans sa stratégie marketing : entre créativité et ingéniosité](https://www.webmarketing-com.com/2019/11/20/94979-choix-couleurs-strategie-marketing-entre-creativite-et-ingeniosite)
 - [Analogous colors (and how to use them in design](https://www.invisionapp.com/inside-design/analogous-colors/)
 - [Design: What You Didn’t Know About the Color Red](https://www.noupe.com/design/the-color-red.html)
+
+## Divers
+[Checklist.design, une collection de bonnes pratiques en terme de design](https://www.checklist.design/)
+[UI-Patterns, des patterns UX/UI ](https://ui-patterns.com/)
+[Design Inspiration & UI Patterns From Real Products](https://designvault.io/mobile/)
+[Iterate on components & designs with an AI-native editor. Export to React or Figma.](https://www.designpatterns.io/)
+[The world’s largest mobile and web design library](https://mobbin.com/browse/ios/apps)
+[The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems.](https://component.gallery/)
+[Browse recordings of end to end user journeys from the top grossing apps to reduce iteration cycles, gain insights, identify trends & benchmark against your competitors and industry’s standard](https://www.uisources.com/home)
+[Des Flux UX classés par catégories](https://uxarchive.com/)
+[Exemples de Portfolio](https://pfolios.net/)
+[FontPair.co](https://www.fontpair.co/)
+[FontJoy, un autre outil de fontpairing](https://fontjoy.com/)
+[Coolors, outil de création de palettes de couleurs](https://coolors.co)
+[Khroma, outil de création de palettes de couleurs](https://www.khroma.co/)
+[Générateur de nom d'entreprise](https://namelix.com/)
+[Subtlepatterns, motifs d'arrière-plan](https://www.toptal.com/designers/subtlepatterns/)
