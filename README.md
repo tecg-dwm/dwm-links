@@ -31,10 +31,17 @@
 - [GridLover : Outil de gestion d'échelles typographique](https://gridlover.net/try)
 
 ## Checklists
-- https://www.checklist.design/
+- [Checklist.design, une collection de bonnes pratiques en terme de design](https://www.checklist.design/)
 - [Checklist d'accessibilité](https://not-checklist.intopia.digital/)
 - [Checklist d'accessibilité WGCA](https://www.a11yproject.com/checklist/)
-- [liste de checklists](https://www.smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/) 
+- [liste de checklists](https://www.smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/)
+- [UI-Patterns, des patterns UX/UI ](https://ui-patterns.com/)
+- [Design Inspiration & UI Patterns From Real Products](https://designvault.io/mobile/)
+- [Iterate on components & designs with an AI-native editor. Export to React or Figma.](https://www.designpatterns.io/)
+- [The world’s largest mobile and web design library](https://mobbin.com/browse/ios/apps)
+- [The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems.](https://component.gallery/)
+- [Browse recordings of end to end user journeys from the top grossing apps to reduce iteration cycles, gain insights, identify trends & benchmark against your competitors and industry’s standard](https://www.uisources.com/home)
+- [Des Flux UX classés par catégories](https://uxarchive.com/)
 
 ## Les formulaires
 - https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/
@@ -51,7 +58,6 @@
 
 - https://larlet.fr/david/biologeek/archives/20070819-l-importance-du-rythme-vertical-en-design-css/
 
-
 ### En design 
 
 - https://builttoadapt.io/8-point-grid-vertical-rhythm-90d05ad95032
@@ -63,7 +69,6 @@
 - https://larlet.fr/david/biologeek/archives/20070819-l-importance-du-rythme-vertical-en-design-css/
 - https://webdesign.tutsplus.com/fr/articles/improving-layout-with-vertical-rhythm--webdesign-14070
 - https://24ways.org/2006/compose-to-a-vertical-rhythm
-
 
 ## App cases study
 - https://airbnb.design/building-a-visual-language/
@@ -83,7 +88,6 @@
 - [UI/UX Case Study: The BikeLike mobile app](https://medium.muz.li/ui-ux-case-study-the-bikelike-mobile-app-22a7115eb113)
 - [Stylevue App - Online Clothing Shopping](https://medium.muz.li/stylevue-app-redefining-online-clothing-shopping-through-perfect-sizing-ui-ux-case-study-8fa0f6f97077?source=rss----5969bf7021a3---4)
 
-
 ## Design
 - https://dribbble.com/shots/6292515-Mobile-bank-onboarding/attachments/1347734
 - [Comment mettre en page un article long](https://css-tricks.com/designing-for-long-form-articles/)
@@ -101,20 +105,14 @@
 - [8 UX/UI design trends for 2020](https://uxdesign.cc/8-ui-ux-design-trends-for-2020-68e37b0278f6)
 - [Goole Search UI/UX Hacks](https://designerup.co/blog/google-search-hacks-for-ui-ux-and-product-designers/)
 
-## Adobe XD 
-- [Creating a Buttons Library in Adobe XD with The New Components Feature](https://www.youtube.com/watch?v=WEOPGPN4JiU)
-- [Introducing Components in Adobe XD](https://www.youtube.com/watch?v=qrsuk6zl8B8)
-- [Master Components & Overrides in Adobe XD](https://www.youtube.com/watch?v=wVJrxdVW15M)
-
-
-https://www.youtube.com/user/IceflowStudios/playlists
 
 ## Typographie
-- https://www.nngroup.com/articles/pairing-typefaces/
+- [FontPair.co](https://www.fontpair.co/)
+- [FontJoy, un autre outil de fontpairing](https://fontjoy.com/)
+- [The Dos and Don’ts of Pairing Typefaces](https://www.nngroup.com/articles/pairing-typefaces/)
 - [Invision : using baseline grid in webdesign](https://www.youtube.com/watch?v=-Kp66bBZoy8)
 - [The three archetypes of typography systems](https://www.freecodecamp.org/news/8-point-grid-typography-on-the-web-be5dc97db6bc/)
 - [8pt Grid, Material Design, GUI](https://medium.com/@_bklmn/8pt-gui-templates-ed8798badab3#.qlci5dec1)
-
 
 ## Accessibilité
 - [VIDEOS - inclusivedesign24.org/2020/schedule](https://inclusivedesign24.org/2020/schedule/)
@@ -143,20 +141,13 @@ https://www.youtube.com/user/IceflowStudios/playlists
 - [Le choix des couleurs dans sa stratégie marketing : entre créativité et ingéniosité](https://www.webmarketing-com.com/2019/11/20/94979-choix-couleurs-strategie-marketing-entre-creativite-et-ingeniosite)
 - [Analogous colors (and how to use them in design](https://www.invisionapp.com/inside-design/analogous-colors/)
 - [Design: What You Didn’t Know About the Color Red](https://www.noupe.com/design/the-color-red.html)
-
-## Divers
-- [Checklist.design, une collection de bonnes pratiques en terme de design](https://www.checklist.design/)
-- [UI-Patterns, des patterns UX/UI ](https://ui-patterns.com/)
-- [Design Inspiration & UI Patterns From Real Products](https://designvault.io/mobile/)
-- [Iterate on components & designs with an AI-native editor. Export to React or Figma.](https://www.designpatterns.io/)
-- [The world’s largest mobile and web design library](https://mobbin.com/browse/ios/apps)
-- [The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems.](https://component.gallery/)
-- [Browse recordings of end to end user journeys from the top grossing apps to reduce iteration cycles, gain insights, identify trends & benchmark against your competitors and industry’s standard](https://www.uisources.com/home)
-- [Des Flux UX classés par catégories](https://uxarchive.com/)
-- [Exemples de Portfolio](https://pfolios.net/)
-- [FontPair.co](https://www.fontpair.co/)
-- [FontJoy, un autre outil de fontpairing](https://fontjoy.com/)
 - [Coolors, outil de création de palettes de couleurs](https://coolors.co)
 - [Khroma, outil de création de palettes de couleurs](https://www.khroma.co/)
+
+## AI
+- [UX et IA pour les débutants](https://www.nngroup.com/articles/ai-ux-getting-started/)
+
+## Divers
+- [Exemples de Portfolio](https://pfolios.net/)
 - [Générateur de nom d'entreprise](https://namelix.com/)
 - [Subtlepatterns, motifs d'arrière-plan](https://www.toptal.com/designers/subtlepatterns/)
