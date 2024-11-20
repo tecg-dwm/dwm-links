@@ -42,6 +42,7 @@
 - [The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems.](https://component.gallery/)
 - [Browse recordings of end to end user journeys from the top grossing apps to reduce iteration cycles, gain insights, identify trends & benchmark against your competitors and industry’s standard](https://www.uisources.com/home)
 - [Des Flux UX classés par catégories](https://uxarchive.com/)
+- [Des exemples de flux et d'écrans d'applications réelles](https://www.theappfuel.com/flows)
 
 ## Les formulaires
 - https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/
