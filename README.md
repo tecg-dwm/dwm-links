@@ -150,31 +150,31 @@
 - [UX et IA pour les débutants](https://www.nngroup.com/articles/ai-ux-getting-started/)
 
 ## Inspiration
-- [Curated Design – Minimalist UI](https://curated.design)
-- [Saaspo – Perfect for SaaS dashboards and](https://saaspo.com)
-- [Website Vice – A go-to resource for](https://websitevice.com)
-- [Godly Website – Showcases bold and](https://godly.website)
-- [Mobbin – Real-world mobile UI patterns](https://mobbin.com)
-- [Cosmos – Clean, modern, and minimalist UI](https://cosmos.so)
-- [Bento Grids – Structured, grid-based](https://bentogrids.com)
-- [Rebrand Gallery – A showcase of](https://rebrand.gallery)
-- [Seesaw Website – Elegant, minimalist](https://seesaw.website)
-- [Lapa Ninja – A collection of](https://lapa.ninja)
-- [One Page Love – The best single-page](https://onepagelove.com)
-- [SiteInspire – Elegant, polished web](https://siteinspire.com)
-- [Httpster – Quirky and unconventional](https://httpster.net)
-- [Minimal Gallery – Clean, minimalist](https://minimal.gallery)
-- [CSS Design Awards –](https://cssdesignawards.com)
-- [Collect UI – A library of UI](https://collectui.com)
-- [Brutalist Websites – Bold,](https://brutalistwebsites.com)
-- [Muzli – Real-time design inspiration and UI](https://muz.li)
-- [UI Movement – A collection of](https://uimovement.com)
-- [Awwwards – Showcasing the best web](https://awwwards.com)
-- [Call to Inspiration –](https://calltoinspiration.com)
-- [Prettyfolio – A hub for stunning](https://prettyfolio.com)
-- [UI8 – Premium UI kits and templates for](https://ui8.net)
-- [Pafolios – Portfolio design inspiration](https://pafolios.com)
-- [Handheld Design – Mobile app and](https://handheld.design)
+- [Curated Design](https://curated.design) -  Minimalist UI 
+- [Saaspo](https://saaspo.com) - Perfect for SaaS dashboards and B2B products
+- [Website Vice](https://websitevice.com) - A go-to resource for AI, SaaS, and 27+ design categories
+- [Godly Website](https://godly.website) - Showcases bold and visually stunning web designs 
+- [Mobbin](https://mobbin.com) - Real-world mobile UI patterns from top apps 
+- [Cosmos](https://cosmos.so) - Clean, modern, and minimalist UI inspiration 
+- [Bento Grids](https://bentogrids.com) - Structured, grid-based UI design inspiration 
+- [Rebrand Gallery](https://rebrand.gallery) - A showcase of brand redesigns and transformations 
+- [Seesaw Website](https://seesaw.website) - Elegant, minimalist UI designs 
+- [Lapa Ninja](https://lapa.ninja) - A collection of conversion-focused landing pages 
+- [One Page Love](https://onepagelove.com) - The best single-page website designs 
+- [SiteInspire](https://siteinspire.com) - Elegant, polished web design inspiration 
+- [Httpster](https://httpster.net) - Quirky and unconventional web design examples 
+- [Minimal Gallery](https://minimal.gallery) - Clean, minimalist UI designs 
+- [CSS Design Awards](https://cssdesignawards.com) - Award-winning, cutting-edge UI designs 
+- [Collect UI](https://collectui.com) - A library of UI components and patterns 
+- [Brutalist Websites](https://brutalistwebsites.com) - Bold, unconventional, raw web designs 
+- [Muzli](https://muz.li) - Real-time design inspiration and UI trends 
+- [UI Movement](https://uimovement.com) - A collection of interactive and animated UI designs 
+- [Awwwards](https://awwwards.com) - Showcasing the best web designs globally 
+- [Call to Inspiration](https://calltoinspiration.com) - High-converting marketing and landing pages 
+- [Prettyfolio](https://prettyfolio.com) - A hub for stunning portfolio designs 
+- [UI8](https://ui8.net) - Premium UI kits and templates for designers 
+- [Pafolios](https://pafolios.com) - Portfolio design inspiration for creatives 
+- [Handheld Design](https://handheld.design) - Mobile app and responsive UI inspiration
 
 ## Divers
 - [Exemples de Portfolio](https://pfolios.net/)
