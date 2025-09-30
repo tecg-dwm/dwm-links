@@ -17,6 +17,7 @@
 
 ## Vidéos
 - [UI Fundamentals](https://www.youtube.com/watch?v=_Hp_dI0DzY4)
+- [ Visual Design Principles in Action (NN Group)](https://www.youtube.com/watch?v=YUMdv4yFlQU)
 ### Figma
 - [Introduction aux design system](https://www.youtube.com/watch?v=Dtd40cHQQlk&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A)
 - [Ma première variable](https://www.youtube.com/watch?v=vqlBwcAzGdQ&list=PLXDU_eVOJTx6V9PNAxvagzaMWHDFOsYQI)
@@ -147,6 +148,33 @@
 
 ## AI
 - [UX et IA pour les débutants](https://www.nngroup.com/articles/ai-ux-getting-started/)
+
+## Inspiration
+- [https://curated.design](Curated Design – Minimalist UI)
+- [https://saaspo.com](Saaspo – Perfect for SaaS dashboards and)
+- [https://websitevice.com](Website Vice – A go-to resource for)
+- [https://godly.website](Godly Website – Showcases bold and)
+- [https://mobbin.com](Mobbin – Real-world mobile UI patterns)
+- [https://cosmos.so](Cosmos – Clean, modern, and minimalist UI)
+- [https://bentogrids.com](Bento Grids – Structured, grid-based)
+- [https://rebrand.gallery](Rebrand Gallery – A showcase of)
+- [https://seesaw.website](Seesaw Website – Elegant, minimalist)
+- [https://lapa.ninja](Lapa Ninja – A collection of)
+- [https://onepagelove.com](One Page Love – The best single-page)
+- [https://siteinspire.com](SiteInspire – Elegant, polished web)
+- [https://httpster.net](Httpster – Quirky and unconventional)
+- [https://minimal.gallery](Minimal Gallery – Clean, minimalist)
+- [https://cssdesignawards.com](CSS Design Awards –)
+- [https://collectui.com](Collect UI – A library of UI)
+- [https://brutalistwebsites.com](Brutalist Websites – Bold,)
+- [https://muz.li](Muzli – Real-time design inspiration and UI)
+- [https://uimovement.com](UI Movement – A collection of)
+- [https://awwwards.com](Awwwards – Showcasing the best web)
+- [https://calltoinspiration.com](Call to Inspiration –)
+- [https://prettyfolio.com](Prettyfolio – A hub for stunning)
+- [https://ui8.net](UI8 – Premium UI kits and templates for)
+- [https://pafolios.com](Pafolios – Portfolio design inspiration)
+- [https://handheld.design](Handheld Design – Mobile app and)
 
 ## Divers
 - [Exemples de Portfolio](https://pfolios.net/)
