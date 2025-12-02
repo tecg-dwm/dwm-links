@@ -19,6 +19,7 @@
 - [UI Fundamentals](https://www.youtube.com/watch?v=_Hp_dI0DzY4)
 - [ Visual Design Principles in Action (NN Group)](https://www.youtube.com/watch?v=YUMdv4yFlQU)
 ### Figma
+- [Les User Flow sur Figma/Figjam](https://www.figma.com/resource-library/user-flow/)
 - [Introduction aux design system](https://www.youtube.com/watch?v=Dtd40cHQQlk&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A)
 - [Ma première variable](https://www.youtube.com/watch?v=vqlBwcAzGdQ&list=PLXDU_eVOJTx6V9PNAxvagzaMWHDFOsYQI)
 - [Typography system](https://www.youtube.com/watch?v=NYamEp3WnZs)
@@ -134,6 +135,10 @@
 - [Adobe Wireframe Podcasts](https://xd.adobe.com/ideas/perspectives/wireframe-podcast/)
 - [Qu'est-ce que le prototypage en UX](https://www.uxpin.com/studio/blog/what-is-a-prototype-a-guide-to-functional-ux/)
 - [La psychologie appliquée à l'UX](https://medium.muz.li/rules-of-ux-perspective-of-psychology-in-ux-design-9e9ade9009d0)
+
+### UX Flow / Flowcharts
+- [Qu'est-ce qu'un Flowchart ? (Wiki)](https://en.wikipedia.org/wiki/Flowchart)
+- [Quels symboles utiliser pour un UX Flow](https://www.gliffy.com/blog/guide-to-flowchart-symbols)
 
 ## Copywriting
 - https://www.nngroup.com/articles/ux-writing-study-guide/
